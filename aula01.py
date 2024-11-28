@@ -1,0 +1,6 @@
+print('hello, world') 
+print('texto de teste')
+print('neymar no santos')
+print('eu sou lindo')
+print( 'messi the goat')
+print('rich boss')
